@@ -21,7 +21,7 @@
 - `hasOne<number>` : `<number>`자리가 1이면 붙여집니다.
   
 ## 사용 방법
-1. 마인크래프트 월드내에서 `/function bin.setup`을 입력합니다.
+1. 마인크래프트 게임에서 애드온을 적용한 후 `/function bin.setup`을 입력합니다.
 2. `bin` 스코어보드에 자신이 원하는 점수를 입력하면 이진법으로 계산이 됩니다.
 커맨드 예시: `/scoreboard players @s bin 23`
 3. 값 출력은 위의 명령어를 참고해주세요. (actionbar로 출력됩니다.)
