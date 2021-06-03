@@ -1,0 +1,29 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "이진법 변환기",
+		"description": "이진법 아시는구나! v. 1.0",
+		"uuid": "769c1ee7-aaf8-41dc-acfd-5901cb8a1b5b",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "2ac212bb-642a-4647-b015-5377454ce04d",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
