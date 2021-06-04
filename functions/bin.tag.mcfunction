@@ -1,3 +1,5 @@
+tag * remove haveScore
+
 #부호 태그 초기화
 tag * remove isPlus
 tag * remove isMinus
@@ -34,6 +36,8 @@ tag * remove hasOne28
 tag * remove hasOne29
 tag * remove hasOne30
 tag * remove hasOne31
+
+tag @e[scores={bin=-2147483648..2147483647}] add haveScore
 
 #부호 태그 저장
 tag @e[scores={bin=0..}] add isPlus
